@@ -1,3 +1,3 @@
 # Flipclock.js
 License
-MIT © CODEBUSKING
+MIT © Flipclock.js
